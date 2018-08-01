@@ -1,0 +1,125 @@
+body{
+	background-image: url('../img/mapa.jpg');
+}
+
+.navbar{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+}
+
+.navbar a{
+	padding: 3px 0px;;
+	color: #ffffff;
+	cursor: pointer;
+	text-decoration: none;
+	margin-left: 43%;
+}
+
+.navbar a:hover{
+	background-color: rgba(155,155,155,.2);
+}
+
+.bg  {
+    background-image: url('img/mapa.jpg');
+}
+
+.cadMot{
+	margin: 3% 0 3% 5%;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+.form-control{
+	width: 90%;
+}
+
+.form-control:hover{
+	border-color: #3399ff;
+	
+}
+
+.rad{
+	margin: 10px 0px 20px 10px;
+}
+
+.btn{
+	padding: 10px 20px;
+	font-size: 25px;
+	color: white;
+	border-radius: 0px;
+}
+
+.btn:active {
+  transform: translate(1px, 1px);
+  -webkit-transform: translate(1px, 1px);
+  box-shadow: 1px 3px 0px 0px;
+}
+
+.cadastro{
+	background-color: #ffa448;
+	box-shadow: 1px 3px 0px 0px #CD6509;
+}
+
+.cadastro:hover{
+	background-color: #e67e22;
+	box-shadow: 1px 3px 0px 0px #CD6509;
+	text-decoration: none;
+}
+
+.voltar{
+	background-color: #008ae6;
+	box-shadow: 1px 3px 0px 0px #00609f;
+	margin-left: 3%;
+}
+
+.voltar:hover{
+	background-color: #006bb3;
+	box-shadow: 1px 3px 0px 0px #00426f;
+}
+
+.btn-info{
+	box-shadow: 1px 3px 0px 0px #005b6f;
+}
+
+.cadPas{
+	margin: 5% 0 0 40%;
+	font-family: Tahoma, Geneva, sans-serif;
+	width: 60%;
+}
+
+.fd{
+	background: white;
+	border-radius: 7px;
+	box-shadow: 0 0 30px 20px rgba(0, 0, 0, 0.3);
+	padding: 20px 30px;
+	width: 50%;
+}
+
+.table{
+	margin-top: 5%;
+	margin-left: 3.5%;
+	width: 90%;
+	background-color: white;
+}
+
+.btn-light{
+	margin-top: 35%;
+	padding: 10px 20px;
+	border: 5px;
+	border-color: black;
+	box-shadow: 3px 3px 0px 0px grey;
+}
+
+.cent{
+	margin-left: 35%;
+	margin-top: 3%;
+}
+
+.cadCor{
+	margin: 5% 0 0 33%;
+	font-family: Tahoma, Geneva, sans-serif;
+	width: 60%;
+}
+
+.edit{
+	cursor: pointer;
+}
